@@ -49,7 +49,7 @@ MCP resuelve el problema de conectar modelos de IA con el mundo real. Permite qu
 - **E-commerce**: Consultar inventario, crear órdenes, actualizar catálogo
 - **CRM**: Gestionar clientes, crear tickets, generar reportes
 - **DevOps**: Desplegar aplicaciones, consultar logs, monitorear servicios
-- **Gestión de Restaurantes**: Administrar menús, platos, ventas (nuestro caso)
+- **Gestión de Establecimientos**: Administrar empleados, productos, servicios (nuestro caso)
 
 ## Conceptos Básicos
 
