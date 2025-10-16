@@ -130,7 +130,7 @@ Configura mediante la sección `env` de Claude Desktop o variables de entorno de
   "mcpServers": {
     "restaurant": {
       "command": "/usr/bin/java",
-      "args": ["-jar", "/path/to/mcprestaurant-0.0.1-SNAPSHOT.jar"],
+      "args": ["-jar", "/path/to/MCPRestaurant/build/libs/mcprestaurant-0.0.1-SNAPSHOT.jar"],
       "env": {
         "RESTAURANT_API_BASE_URL": "http://localhost:8080/api",
         "RESTAURANT_API_USERNAME": "admin",
@@ -235,7 +235,7 @@ Este servidor utiliza **transporte STDIO** - Claude Desktop lanza el JAR directa
          "command": "/usr/bin/java",
          "args": [
            "-jar",
-           "/Users/javiersandoval/Documents/Projects/MCPRestaurant/build/libs/mcprestaurant-0.0.1-SNAPSHOT.jar"
+           "/path/to/MCPRestaurant/build/libs/mcprestaurant-0.0.1-SNAPSHOT.jar"
          ],
          "env": {
            "RESTAURANT_API_BASE_URL": "http://localhost:8080/api",
